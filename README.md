@@ -1,7 +1,11 @@
 # Youtube Clone
-React ile API'dan veri çekilerek Youtube projesi oluşturuldu.
+React ile API'dan veri çekilerek Klon bir Youtube projesi oluşturuldu.
 Context yapısı kullanıldı.
 
+# Kullanılan Teknolojiler
+- React.JS
+- CSS
+- HTML
 
 # Kullanılan Kütüphaneler/Kaynaklar
 - react-icons
