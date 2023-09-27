@@ -1,10 +1,9 @@
-<h1>Youtube Clone</h1>
+# Youtube Clone
 React ile API'dan veri çekilerek Youtube projesi oluşturuldu.
 Context yapısı kullanıldı.
 
 
-# KULLANILAN KAYNAKLAR/KÜTÜPHANLER
-
+# Kullanılan Kütüphaneler/Kaynaklar
 - react-icons
 - react-router-dom
 - axios
@@ -25,7 +24,9 @@ Context yapısı kullanıldı.
 - Feed.jsx içerisinde her video için videoyu ekrana video bas.
 
 - Header'da arama yapıp butona basıldığında -> SearchResults.jsx
+
 -- aratılan kelimeyi url'e parametre olarak ekle
+  
 --- YÖNTEMLER;
 
 - /results/react.js
