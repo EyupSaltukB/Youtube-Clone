@@ -17,7 +17,7 @@ Context yapısı kullanıldı.
 - moment
 - rapid api
 
-# YAPILACAKLAR
+# Yol Haritası
 
 - SideNav içerisinde kategoriler listelendi.
 
