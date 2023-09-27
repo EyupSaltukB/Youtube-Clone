@@ -1,6 +1,6 @@
 # Youtube Clone
 React ile API'dan veri çekilerek Klon bir Youtube projesi oluşturuldu.
-Context yapısı kullanıldı.
+Context yapısı kullanıldı. Arama çubuğu aktif çalışır durumda. 
 
 # Kullanılan Teknolojiler
 - React.JS
@@ -45,3 +45,7 @@ Context yapısı kullanıldı.
 ![](./src/assets/screen3.png)
 ![](./src/assets/screen4.png)
 ![](./src/assets/screen5.png)
+
+# Detaylı Video İçin Tıklayınız;
+
+#
