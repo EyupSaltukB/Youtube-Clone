@@ -1,4 +1,9 @@
-# KÜTÜPHANLER
+<h1>Youtube Clone</h1>
+React ile API'dan veri çekilerek Youtube projesi oluşturuldu.
+Context yapısı kullanıldı.
+
+
+# KULLANILAN KAYNAKLAR/KÜTÜPHANLER
 
 - react-icons
 - react-router-dom
@@ -7,6 +12,7 @@
 - millify
 - react-player
 - moment
+- rapid api
 
 # YAPILACAKLAR
 
