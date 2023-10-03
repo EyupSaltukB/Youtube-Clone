@@ -48,4 +48,4 @@ Context yapısı kullanıldı. Arama çubuğu aktif çalışır durumda.
 
 # Detaylı Video İçin Tıklayınız;
 
-#
+https://www.linkedin.com/feed/update/urn:li:activity:7113618901434871808/
